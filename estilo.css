@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    width: auto;
+    border: 1px solid red;
+}
+.contenedor img{
+    width: 100%;
+}
